@@ -1,0 +1,26 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="lauriebudhu.github.io" resolutions="1x" timestamp="1472424589429">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="3963115754" ref="index"/>
+    <file name="untitled-3.css" crc="4193191577" ref="untitled-3"/>
+    <file name="untitled-2.css" crc="4193191577" ref="untitled-2"/>
+    <file name="untitled-4.css" crc="4193191577" ref="untitled-4"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:untitled-2:untitled-3:untitled-4"/>
+    <file name="museutils.js" crc="3851988764" ref="index:untitled-2:untitled-3:untitled-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2:untitled-3:untitled-4"/>
+    <file name="museconfig.js" crc="169177150" ref="index:untitled-2:untitled-3:untitled-4"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:untitled-2:untitled-3:untitled-4"/>
+    <file name="require.js" crc="4108833657" ref="index:untitled-2:untitled-3:untitled-4"/>
+  </folder>
+  <folder name="images">
+    <file name="img_7368 copy-crop-u133.jpg" crc="522755391" ref="index"/>
+    <file name="img_7395-crop-u136.jpg" crc="2445897" ref="index"/>
+    <file name="img_7722-crop-u139.jpg" crc="4099192874" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3871144450" seo="true" mt="1472424023016" redirect="true"/>
+  <file name="untitled-2.html" crc="105271628" seo="true" mt="1472421382576" redirect="false"/>
+  <file name="untitled-3.html" crc="399471951" seo="true" mt="1472421384163" redirect="false"/>
+  <file name="untitled-4.html" crc="249791365" seo="true" mt="1472421384971" redirect="false"/>
+</manifest>
